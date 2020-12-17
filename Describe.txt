@@ -1,0 +1,3 @@
+FixBug 1.2
+
+Fixed Critical Bugs
